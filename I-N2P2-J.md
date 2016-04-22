@@ -16,7 +16,7 @@
 * MASSIAUX  ALEXIS  :
 * MÉZIÈRES  VANESSA : https://github.com/VanessaMe/chiffresromains.git
 * PAUL  KILIAN  :
-* PELLERIN  ALEXANDRE :
+* PELLERIN  ALEXANDRE :https://github.com/AlexandrePellerin/romannumerals.git
 * PIRLET  GAUTHIER  :
 * PLOUCHART THOMAS  :
 * PLOUVIN MARGOT  : https://github.com/Margot-plouvin/tp-tdd.git
@@ -24,4 +24,4 @@
 * REINLING  ROBIN :
 * VANDERASPOILDEN RODOLPHE  :
 * VASSEUR SAMSON  :
-* VERQUIN CORENTIN  : https://github.com/corentin-verquin/TDD
+* VERQUIN CORENTIN  :
